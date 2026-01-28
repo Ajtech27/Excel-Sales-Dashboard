@@ -98,8 +98,7 @@ Top 5 products contributing the most revenue:
 ---
 
 ## 🖼 Dashboard Preview
-![Sales Analysis Dashboard](images/sales_dashboard.png)
-
+![Sales Analysis Dashboard](https://github.com/Ajtech27/Excel-Sales-Dashboard/blob/main/Sales%20Analysis%20Dashboard.jpg)
  
 
  
